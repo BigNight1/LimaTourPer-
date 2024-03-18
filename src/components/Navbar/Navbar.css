@@ -1,0 +1,21 @@
+.NavBar{
+    background-color: #595959;
+}
+
+.Content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1300px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 80px;
+    padding: 0 1rem;
+}
+
+.link a{
+    font-size: 15px;
+    font-weight: 500;
+    color: white;
+    line-height: 15px;
+}
